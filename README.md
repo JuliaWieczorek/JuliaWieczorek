@@ -1,7 +1,3 @@
-<!--
-**JuliaWieczorek/JuliaWieczorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hi there 👋 Thanks for visiting my GitHub profile, it's great to see you! 😀
 
 Here are some quick things about me:
