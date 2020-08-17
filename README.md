@@ -6,4 +6,4 @@ Here are some quick things about me:
     💻 I enjoy programming a lot.
     🔥 I am most interested in machine learning and data analysis.    
     
-Also, here is a small portfolio of my favorite projects 😎
+Also, here is a small portfolio of my projects 😎
